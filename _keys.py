@@ -1,25 +1,18 @@
-'''
-Sacar sus api keys en los siguientes URLs
+IEX_TOKEN = 'pk_35c615850a9e477cba8ff4c7a5993d02'
+
+TDA_KEY = '9LXYC5VHG9LMZHSARYY25MBUKAEWIRAY'
+TDA_KEY = 'GWQZ51E1QDMUYY2GYPCOYRKF5IFH6HBO'
+TDA_KEY = 'UPZMXMXOISAFCGWROWVABMQH8BECJVOB'
+
+FMP_KEY = '9010a08f69853232120d1ed54a0f4f64'
+FMP_KEY = '66c44b016256f8b9e507838f32434ece'
+FMP_KEY = 'f0bdfc9adbb9cad589dadedfd786d499'
+FMP_KEY = '7bcec62b64a5ccd1f35fc2036c768593'
+FMP_KEY = '2f08561fe33be29429d696aed288539e'
+FMP_KEY = '938c4b4dece598e20a115db9b9d3d5e9'
 
 
-* IEX: https://iexcloud.io/
-* TDA-Ameritrade: https://developer.tdameritrade.com/apis 
-    * Ir a MyApps 
-    		>> Nueva App 
-    			>> En callBack url poner cualquier url tipo http://google.com 
-    				>> Listo, Ver consumer Key
-* FMP: https://fmpcloud.io/
-* Alpaca: https://alpaca.markets/
-    * En Alpaca te dan un par: ApiKey y ApiSecret
+ALPACA_KEY = "PKPH8PLW39GAMTFTFCQQ"
+ALPACA_SECRET = "G3FxXZquKtcZhYSQNdsbhlMpJQYDks3R5LwYw7n0"
 
-
-'''
-
-
-IEX_TOKEN = ''
-TDA_KEY = ''
-FMP_KEY = ''
-ALPACA_KEY = ""
-ALPACA_SECRET = ""
-
-
+TRADIER = 'AUp6lPEncrJHGIf4tYA1QKZCXJle'
